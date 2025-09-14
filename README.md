@@ -7,7 +7,7 @@
   
   <p align="center">
     Sometimes cracker sometimes developer but kind :3
-    <a href="https://www.youtube.com/codes-team?sub_confirmation=1" target="_blank">
+    <a href="https://www.youtube.com/codes-team" target="_blank">
       <img
            width="10%" 
            align="center" 
