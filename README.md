@@ -8,13 +8,6 @@
   <p align="center">
     Sometimes cracker sometimes developer but kind :3
     <a href="https://www.youtube.com/codes-team" target="_blank">
-      <img
-           width="10%" 
-           align="center" 
-           valign="middle" 
-           src="https://img.shields.io/youtube/codes-team?label=iCode&style=social" 
-           target="_blank" 
-      />
     </a>  
   </p>
   
